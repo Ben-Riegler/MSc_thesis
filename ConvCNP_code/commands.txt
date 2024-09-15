@@ -1,0 +1,1 @@
+python train.py sin convcnp --train --root experiments/convcnp-sin --epochs 500 --learning_rate 3e-4
